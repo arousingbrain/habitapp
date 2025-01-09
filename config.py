@@ -28,7 +28,7 @@ PADDING = {
     "loading": (0, 5),
 }
 
-# Text content
+# Text content #
 TEXTS = {
     "title": "Daily Journal",
     "button": "Get Habit Recommendation",
